@@ -20,7 +20,7 @@ Our system also supports searching through 1 million stock records efficiently u
 
 1. Clone the repository:
 
-    git clone <your-repo-link>
+    git clone https://github.com/swetlakhani218/Stock-Order-Matching-System.git
     cd stock-order-matching-system
 
 2. Open the project in IntelliJ IDEA / Eclipse / any Java IDE.
